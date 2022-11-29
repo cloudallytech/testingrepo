@@ -8,3 +8,7 @@
 
 ### entonces cambio nombre local, cambio remoto también....
 
+
+
+Hago otra modificación directamente sobre el repositorio.. en rama develop para generar conflicto y resolverlo
+
