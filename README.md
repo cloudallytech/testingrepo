@@ -13,3 +13,6 @@ python -m pip install matplotlib
 
 
 
+Vamos a ir modificando directo desde github....... y realizar commit online
+
+
